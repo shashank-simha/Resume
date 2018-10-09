@@ -6,7 +6,7 @@ header nav a.home-btn, .estate figure .imgout .price, .site-btn, .timeline li:fi
     background: #52bf00 !important;
 }
 
-header nav ul li a:hover, .events ul li .datenlocation span, .namenprice .price, .cbp-filter-item-active, .portfolio-content p span, #blog-post .blog-sidebar ul.category-list li a:hover, #blog-post .blog-sidebar .popular-posts ul li a .info{
+header nav ul li a:hover, .events ul li .datenlocation span, .namenprice .price, .cbp-filter-item-active, .portfolio-content p span, #blog-post .blog-sidebar ul.category-list li a:hover, #blog-post .blog-sidebar .popular-posts ul li a .info, .working-history li a{
     color: #52bf00 !important;
 }
 
@@ -43,6 +43,7 @@ ul.profile-information li:before{
 .tab.active a, #blog-post .post-list ul li a, #blog-post .post-comment ul li .comment-content a{
 	color: #52bf00;
 }
+
 
 
 
